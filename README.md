@@ -702,8 +702,8 @@ Formula:
 
 Equipo:
 
-* Nili Estefanía López Gutierrez 
 * Elton Yael Alba Roldan
+* Adriana Jamileth Mendoza Ortiz
 
 ## Introducción
 
