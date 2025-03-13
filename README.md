@@ -1,4 +1,4 @@
-# MetodosNumericosItesa2024
+# MetodosNumericosItesa2025
 >Divide y venceras
 
 ## Índice
