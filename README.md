@@ -13,7 +13,7 @@
    * [Metodo de Gauss Seidel](#Metodo_de_Gauss-Seidel)
    * [Metodo de Jacobi](#Metodo_de_Jacobi)
  * [Tema 4](#Tema_4)
-   * [Metodos de diferencición](#Metodos_de_diferenciacióm)
+   * [Metodos de diferencición](#Metodos_de_diferenciación)
      * [Regla de tres puntos](#Regla_de_tres_puntos)
      * [Regla de cinco puntos](#Regla_de_cinco_puntos)
    * [Metodos de integración](#Metodos_de_integraación)
